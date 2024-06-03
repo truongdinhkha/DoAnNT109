@@ -1,0 +1,339 @@
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojResolveAssemblyReference.cache
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.Cache
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+c:\users\salaar husyn\documents\visual studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+E:\Roots Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+E:\Roots Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+E:\Roots Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+E:\Roots Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+E:\Roots Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+E:\Roots Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojResolveAssemblyReference.cache
+E:\Roots Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+E:\Roots Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+E:\Roots Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+E:\Roots Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.Cache
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojResolveAssemblyReference.cache
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.Cache
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\bin\Debug\BunifuDataViz 1.0.1.dll
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+E:\YoutubeStuff\BookShopManagement\BookShopManagement\bin\Debug\Bunifu_UI_v1.52.dll
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\bin\Debug\BunifuDataViz 1.0.1.dll
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojResolveAssemblyReference.cache
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Sales.resources
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.Cache
+F:\YouTube Stuff\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_FinishOrder.resources
+E:\YouTube\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+E:\YouTube\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+E:\YouTube\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojResolveAssemblyReference.cache
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddNewBook.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_FinishOrder.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_PurchaseDetails.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Sales.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.Cache
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddCategory.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddStock.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddExpense.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_ManageExpense.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_ManageUser.resources
+E:\YouTube\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_ViewSales.resources
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.AssemblyReference.cache
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.SuggestedBindingRedirects.cache
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe.config
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\Newtonsoft.Json.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\RestSharp.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Buffers.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.CodeDom.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Data.Odbc.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Data.OleDb.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Data.SqlClient.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Diagnostics.EventLog.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Drawing.Common.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.IO.Packaging.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.IO.Ports.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Memory.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Security.AccessControl.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Security.Permissions.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Security.Principal.Windows.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.ServiceModel.Syndication.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\bin\Debug\System.Threading.AccessControl.xml
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.Fody.CopyLocal.cache
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.CopyComplete
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.BankUserControl.resources
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Evaluation.resources
+D:\BookShop-master\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank.resources
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.exe
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.pdb
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\Newtonsoft.Json.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\RestSharp.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Buffers.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.CodeDom.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.Odbc.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.OleDb.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.SqlClient.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Diagnostics.EventLog.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Drawing.Common.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.Packaging.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.Ports.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Memory.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.AccessControl.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Permissions.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Principal.Windows.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.ServiceModel.Syndication.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ev Review\ev Review\BookShopManagement\bin\Debug\System.Threading.AccessControl.xml
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.AssemblyReference.cache
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.SuggestedBindingRedirects.cache
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.exe.config
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.BankUserControl.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Evaluation.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.Fody.CopyLocal.cache
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.CopyComplete
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.exe
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.pdb
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.SignUp.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Reading.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Advance.resources
+D:\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Writing.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.AssemblyReference.cache
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.exe.config
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.SignUp.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.BankUserControl.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Advance.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Evaluation.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Reading.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.exe
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.pdb
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.exe
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.pdb
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\Newtonsoft.Json.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\RestSharp.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Buffers.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.CodeDom.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.Odbc.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.OleDb.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.SqlClient.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Diagnostics.EventLog.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Drawing.Common.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.Packaging.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.Ports.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Memory.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Numerics.Vectors.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.AccessControl.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Permissions.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Principal.Windows.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.ServiceModel.Syndication.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\bin\Debug\System.Threading.AccessControl.xml
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.Fody.CopyLocal.cache
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.CopyComplete
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Chat_user.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.exe
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.pdb
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\Newtonsoft.Json.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\RestSharp.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Buffers.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.CodeDom.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.Odbc.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.OleDb.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.SqlClient.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Diagnostics.EventLog.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Drawing.Common.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.Packaging.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.Ports.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Memory.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Numerics.Vectors.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.AccessControl.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Permissions.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Principal.Windows.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.ServiceModel.Syndication.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\bin\Debug\System.Threading.AccessControl.xml
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.AssemblyReference.cache
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.exe.config
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Chat_user.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.SignUp.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.BankUserControl.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Advance.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Evaluation.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Reading.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.Fody.CopyLocal.cache
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.CopyComplete
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.exe
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\RestSharp.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Buffers.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.CodeDom.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.Odbc.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.OleDb.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Drawing.Common.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.Packaging.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.IO.Ports.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Memory.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.AssemblyReference.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.exe.config
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Chat_user.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Forms.SignUp.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Reading.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.Fody.CopyLocal.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.csproj.CopyComplete
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\BookShopManagement\obj\Debug\BookShopManagement.Form_VietBai.resources

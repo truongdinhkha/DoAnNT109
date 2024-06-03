@@ -1,0 +1,17 @@
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\bin\Debug\net6.0-windows\Server_For_Chat.exe
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\bin\Debug\net6.0-windows\Server_For_Chat.deps.json
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\bin\Debug\net6.0-windows\Server_For_Chat.runtimeconfig.json
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\bin\Debug\net6.0-windows\Server_For_Chat.dll
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\bin\Debug\net6.0-windows\Server_For_Chat.pdb
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.csproj.AssemblyReference.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.Form1.resources
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.csproj.GenerateResource.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.AssemblyInfoInputs.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.AssemblyInfo.cs
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.csproj.CoreCompileInputs.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.dll
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\refint\Server_For_Chat.dll
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.pdb
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\Server_For_Chat.genruntimeconfig.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_For_Chat\obj\Debug\net6.0-windows\ref\Server_For_Chat.dll

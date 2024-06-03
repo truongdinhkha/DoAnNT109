@@ -1,0 +1,22 @@
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\Server_review\bin\Debug\Server_review.exe.config
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\Server_review\bin\Debug\Server_review.exe
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\Server_review\bin\Debug\Server_review.pdb
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\Server_review\obj\Debug\Server_review.csproj.AssemblyReference.cache
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\Server_review\obj\Debug\Server_review.csproj.CoreCompileInputs.cache
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\Server_review\obj\Debug\Server_review.exe
+E:\LaptrinhMangCanBan\TuHoc\ev Review\ev Review\ev Review\Server_review\obj\Debug\Server_review.pdb
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\Server_review\bin\Debug\Server_review.exe.config
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\Server_review\bin\Debug\Server_review.exe
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\Server_review\bin\Debug\Server_review.pdb
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\Server_review\obj\Debug\Server_review.csproj.AssemblyReference.cache
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\Server_review\obj\Debug\Server_review.csproj.CoreCompileInputs.cache
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\Server_review\obj\Debug\Server_review.exe
+E:\LaptrinhMangCanBan\TuHoc\I_AM_HERE\ev Review\ev Review\Server_review\obj\Debug\Server_review.pdb
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_review\bin\Debug\Server_review.exe.config
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_review\bin\Debug\Server_review.exe
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_review\bin\Debug\Server_review.pdb
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_review\obj\Debug\Server_review.csproj.AssemblyReference.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_review\obj\Debug\Server_review.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_review\obj\Debug\Server_review.csproj.CoreCompileInputs.cache
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_review\obj\Debug\Server_review.exe
+C:\Users\dinh kha\Documents\Zalo Received Files\ev Review\ev Review\Server_review\obj\Debug\Server_review.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Server_For_Chat/1.0.0": {
+        "runtime": {
+          "Server_For_Chat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Server_For_Chat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
